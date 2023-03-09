@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    padding:  50px;
+    max-width: 33%;
+    margin-top: 250px;
+}
+
+.box article{
+    display: flex;
+    flex-direction: column;
+}
+
+article h1{
+    text-align: center;
+    
+}
+
+article p{
+    text-align: center;
+}
+
+ nav i{
+    margin-left: 50%;
+} 
+
