@@ -24,7 +24,7 @@
 
 article h1{
     text-align: center;
-    
+    margin-bottom: 10px;
 }
 
 article p{
@@ -32,6 +32,7 @@ article p{
 }
 
  nav i{
+    margin-bottom: 20px;
     margin-left: 50%;
 } 
 
